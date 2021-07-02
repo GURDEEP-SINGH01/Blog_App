@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/bottom_home"
+        android:icon="@drawable/outline_home_white_18"
+        android:title="@string/Bottom_home_text" />
+
+    <item
+        android:id="@+id/bottom_account"
+        android:icon="@drawable/outline_person_white_18"
+        android:title="@string/bottom_ac_text" />
+</menu>

@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Blog</string>
+    <string name="Photo">Welcome To</string>
+    <string name="blog">Photo Blog</string>
+    <string name="email_hint">Your Email</string>
+    <string name="pass_hint">Password</string>
+    <string name="loginreg_bt">Need a new Account?</string>
+    <string name="loginbtn">Login to Account</string>
+    <string name="action_logout">Logout</string>
+    <string name="action_account">Account Setting</string>
+    <string name="action_search">Search</string>
+    <string name="newacnt">Create a new Account</string>
+    <string name="regbtn">Create new Account</string>
+    <string name="regloginaccnt">Already have an Account</string>
+    <string name="reconfirmpass">Confirm Password</string>
+    <string name="setup_name">Your Name</string>
+    <string name="saveaccntsetting">Save account Settings</string>
+    <string name="descrption">Add Desc..</string>
+    <string name="newpost">Add Post</string>
+    <string name="Bottom_home_text">Home</string>
+    <string name="Bottom_notifiction_text">Notification</string>
+    <string name="bottom_ac_text">Account</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Comments">Comments</string>
+    <string name="Comments_here">Your Comment Here</string>
+    <string name="username">Username</string>
+    <string name="loading_comment">Loading Comment</string>
+</resources>
